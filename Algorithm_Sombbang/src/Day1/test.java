@@ -1,10 +1,8 @@
-package DAY1;
+package Day1;
 
-import java.util.Arrays;
-import java.util.HashMap;
 import java.util.LinkedList;
 
-public class Test {
+public class test {
 
     private static final int MAX = 100_000;
 

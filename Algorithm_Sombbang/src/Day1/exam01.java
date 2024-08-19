@@ -1,4 +1,4 @@
-package DAY1;
+package Day1;
 /*
 * 구간 합 구하기 4
 시간 제한	메모리 제한	제출	정답	맞힌 사람	정답 비율
@@ -28,7 +28,7 @@ package DAY1;
 9
 1
 * */
-public class Exam01 {
+public class exam01 {
     public static void main(String[] args) {
 
     }
